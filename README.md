@@ -40,7 +40,7 @@ Deployment: Hardhat for smart contract development and deployment
 
 As we embark on this hackathon adventure, we are fueled by passion, curiosity, and the drive to make a difference. We can't wait to see where this journey takes us and how our project will evolve. Thank you for joining us on this exciting ride!
 
-Stay tuned for updates, and let's build the Web3 future together!
+Stay tuned for updates, and let's build the Web3 future together!🚀
 
 ---
 For more information view this pdf file
